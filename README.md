@@ -1,2 +1,3 @@
-# LithiumBuilder
-🗡Malware Builder Base: fast, reliant, easy to use.
+<p align="justify">
+  🗡 LithiumBuilder, a Malware Builder Base that is fast, reliant, and easy to use.
+</p>
