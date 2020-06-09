@@ -27,12 +27,12 @@ Base64 - Encodes the webhook using base64
 UserData - Grabs victim's IP address and computer username.
 ```
 <p align="center">
-  <img width="500" height="500" src="https://cdn.discordapp.com/attachments/717866583543906359/719729599801589820/unknown.png">
+  <img src="https://cdn.discordapp.com/attachments/717866583543906359/719729599801589820/unknown.png">
 </p>
 
 <h3 align="center">Demo</h3>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/712876939593121823/719741762603712512/unknown_4.png">
+  <img width="500" height="500" src="https://cdn.discordapp.com/attachments/712876939593121823/719741762603712512/unknown_4.png">
 </p>
 
 <h3 align="center">ToS/Legal Disclaimer</h3>
