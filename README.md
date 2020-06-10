@@ -8,11 +8,13 @@
 Lithium Builder is one of the first python malware builders, meaning you can create your own malware and deploy it with ease. There are a few local dependencies which will need to be installed. 
 1. First off install a version of python 3.75 or above. 
 2. Make sure that python is added to path, once added to path run the following commands:
+
 ```
   pip install pyqt5
   pip install requests
   pip install pyinstaller
 ```
+
 This will install all requirements for Lithium Builder to function.
 
 <h3 align="center">Usage</h3>
